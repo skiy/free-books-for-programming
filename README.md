@@ -1,6 +1,7 @@
-免费编程书籍[中文]索引
+免费中文编程书籍索引
 ------
-免费编程书籍[中文]索引，欢迎投稿。
+免费中文编程书籍索引，欢迎投稿。
+
 - [GitHub](https://github.com/vhf/free-programming-books) 上流行的其它中文编程书籍索引  [索引一](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)、 [索引二](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
 
 ## 目录
@@ -15,30 +16,25 @@
 
 ## Go
 
-* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
-* [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/)
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming) (无闻)
+* [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (无闻)
+* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn) (mikespook)
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) (Asta谢)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
-* [Effective Go](http://www.hellogcc.org/effective_go.html)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-* [Golang标准库文档](http://godoc.ml/)
-* [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
-* [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
-* [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)
-* [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
-* [Go 官方文档翻译](https://github.com/golang-china/golangdoc.translations)
+* [GO 命令教程](https://github.com/hyper-carrot/go_command_tutorial) (郝林)
+* [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action) (Asta谢)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* [Go语言圣经(中文版)](https://bitbucket.org/golang-china/gopl-zh/wiki/Home) ([GitBook](https://www.gitbook.com/book/wizardforcel/gopl-zh/details))
+* [Go 语言圣经](https://github.com/golang-china/gopl-zh) ([GitBook](https://books.studygolang.com/gopl-zh/))
 * [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
 * [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 * [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
-* [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide)[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)
-* [Go语言高级编程](https://books.studygolang.com/advanced-go-programming-book/)   
-* [Go2编程指南](https://chai2010.cn/go2-book/)   
-* [Go语言设计模式](https://github.com/senghoo/golang-design-pattern)   
-* [Go语言四十二章经](https://github.com/ffhelicopter/Go42)   
+* [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide) ([GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/))   
+* [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)   
+* [Go 语言四十二章经](https://github.com/ffhelicopter/Go42) (李骁)
+* [Go 语法树入门](https://github.com/chai2010/go-ast-book) (柴树杉)
+* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) ([GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)) (柴树杉)
+* [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (柴树杉)   
 
 ## JavaScript
 
@@ -168,3 +164,6 @@
 * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 * Deno
     * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [website](https://nugine.github.io/deno-manual-cn/)
+
+## Review
+> 2020.05.28: JavaScript
