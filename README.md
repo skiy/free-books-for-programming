@@ -2,7 +2,7 @@
 ------
 免费中文编程书籍索引，欢迎投稿。
 
-- [GitHub](https://github.com/vhf/free-programming-books) 上流行的其它中文编程书籍索引  [索引一](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)、 [索引二](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
+- GitHub 上流行的其它中文编程书籍索引  [索引一](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)、 [索引二](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
 
 ## 目录
 
@@ -25,15 +25,15 @@
 * [GO 命令教程](https://github.com/hyper-carrot/go_command_tutorial) (郝林)
 * [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action) (Asta谢)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* [Go 语言圣经](https://github.com/golang-china/gopl-zh) ([GitBook](https://books.studygolang.com/gopl-zh/))
+* [Go 语言圣经](https://github.com/golang-china/gopl-zh) [[GitBook](https://books.studygolang.com/gopl-zh/)]
 * [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
 * [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice)
 * [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
-* [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide) ([GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/))   
+* [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide) [[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)]   
 * [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)   
 * [Go 语言四十二章经](https://github.com/ffhelicopter/Go42) (李骁)
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book) (柴树杉)
-* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) ([GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)) (柴树杉)
+* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)) (柴树杉)
 * [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (柴树杉)   
 
 ## JavaScript
