@@ -33,7 +33,7 @@
 * [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)   
 * [Go 语言四十二章经](https://github.com/ffhelicopter/Go42) (李骁)
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book) (柴树杉)
-* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)) (柴树杉)
+* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)] (柴树杉)
 * [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (柴树杉)   
 
 ## JavaScript
@@ -163,7 +163,7 @@
 
 * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 * Deno
-    * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [website](https://nugine.github.io/deno-manual-cn/)
+    * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [[GitBook](https://nugine.github.io/deno-manual-cn/)]
 
 ## Review
 > 2020.05.28: JavaScript
