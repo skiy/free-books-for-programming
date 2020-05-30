@@ -164,6 +164,7 @@
 * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 * Deno
     * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [[GitBook](https://nugine.github.io/deno-manual-cn/)]
+    * [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial) (韩亦乐,寇云)
 
 ## Review
 > 2020.05.28: JavaScript
