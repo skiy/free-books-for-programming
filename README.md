@@ -165,6 +165,8 @@
 * Deno
     * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [[GitBook](https://nugine.github.io/deno-manual-cn/)]
     * [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial) (韩亦乐,寇云)
-
+    * [Deno 进阶开发笔记](https://github.com/chenshenhai/deno_note) (chenshenhai)
+    
+    
 ## Review
 > 2020.05.28: JavaScript
