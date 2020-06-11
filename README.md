@@ -152,7 +152,10 @@
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 
 ## Rust
-* [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn) [[GitHub.io](https://kaisery.github.io/trpl-zh-cn/)] (官方文档中文译版)
+* [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn) [[github.io](https://kaisery.github.io/trpl-zh-cn/)] - ([官方《The Rust Programming Language》译本](https://github.com/rust-lang/book))
+* [Rust 死灵书](https://github.com/tjxing/rustonomicon_zh-CN) - ([官方《The Rustonomicon》译本](https://github.com/rust-lang/nomicon))
+* [Cargo book](https://github.com/chinanf-boy/cargo-book-zh)[[github.io](http://llever.com/cargo-book-zh/)] - ([官方《Cargo》译本](https://github.com/rust-lang/cargo))
+* [Rust Cookbook](https://github.com/chinanf-boy/rust-cookbook-zh) - ([《A Rust Cookbook》译本](https://github.com/rust-lang-nursery/rust-cookbook))
 
 ## Shell
 
@@ -175,5 +178,5 @@
     
     
 ## Review
-> 已审阅: Go,   
+> 已审阅: Go, Rust, TypeScript  
 > 审阅至: 2020.05.28 - JavaScript
