@@ -11,6 +11,7 @@
   * [JavaScript](#javascript)
   * [Lua](#lua)
   * [PHP](#php)
+  * [Rust](#rust)
   * [Shell](#shell)
   * [TypeScript](#typescript)
 
@@ -150,6 +151,9 @@
 * [Lumen 中文文档](http://lumen.laravel-china.org/)
 * [PHPUnit 中文文档](https://phpunit.de/manual/current/zh_cn/installation.html)
 
+## Rust
+* [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn) [[GitHub.io](https://kaisery.github.io/trpl-zh-cn/)] (官方文档中文译版)
+
 ## Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
@@ -171,4 +175,5 @@
     
     
 ## Review
-> 2020.05.28: JavaScript
+> 已审阅: Go,   
+> 审阅至: 2020.05.28 - JavaScript
