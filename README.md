@@ -17,14 +17,14 @@
 
 ## Go
 
-* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming) (无闻)
-* [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (无闻)
-* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn) (mikespook)
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) (Asta谢)
+* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming) (作者: 无闻)
+* [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN) (作者: 无闻)
+* [学习 Go 语言](https://github.com/mikespook/Learning-Go-zh-cn) (作者: mikespook)
+* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) (作者: Asta谢)
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-* [GO 命令教程](https://github.com/hyper-carrot/go_command_tutorial) (郝林)
-* [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action) (Asta谢)
+* [GO 命令教程](https://github.com/hyper-carrot/go_command_tutorial) (作者: 郝林)
+* [Go 语言博客实践](https://github.com/achun/Go-Blog-In-Action) (作者: Asta谢)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
 * [Go 语言圣经](https://github.com/golang-china/gopl-zh) [[GitBook](https://books.studygolang.com/gopl-zh/)]
 * [golang runtime源码分析](https://github.com/sheepbao/golang_runtime_reading)
@@ -32,32 +32,30 @@
 * [Golang 系列教程(译)](https://github.com/Tinywan/golang-tutorial)   
 * [Go RPC 开发指南](https://github.com/smallnest/go-rpc-programming-guide) [[GitBook](https://smallnest.gitbooks.io/go-rpc-programming-guide/)]   
 * [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)   
-* [Go 语言四十二章经](https://github.com/ffhelicopter/Go42) (李骁)
-* [Go 语法树入门](https://github.com/chai2010/go-ast-book) (柴树杉)
-* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)] (柴树杉)
-* [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (柴树杉)   
+* [Go 语言四十二章经](https://github.com/ffhelicopter/Go42) (作者: 李骁)
+* [Go 语法树入门](https://github.com/chai2010/go-ast-book) (作者: 柴树杉)
+* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)] (作者: 柴树杉)
+* [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (作者: 柴树杉)   
 
 ## JavaScript
 
-* [现代 Javascript 教程](https://zh.javascript.info/)
-* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
-* [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
-* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
-* [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
-* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [Web 开发技术 - JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) (作者: MDN)
+* [学习 Web 开发 - JavaScript](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript) (作者: MDN)
+* [ECMAScript 6 入门教程](http://es6.ruanyifeng.com/) (作者: 阮一峰)
 * [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
-* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
-* [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
-* [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [现代 Javascript 教程](https://github.com/javascript-tutorial/zh.javascript.info)[[WEB](https://zh.javascript.info/)]
+* [JavaScript 教程](https://wangdoc.com/javascript/)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [JavaScript 模式](https://github.com/jayli/javascript-patterns) - ([《JavaScript patterns》译本](https://github.com/no-particular/javascript-patterns))
+* [JavaScript Promise 迷你书](http://liubin.github.io/promises-book/)[github.io](http://liubin.github.io/promises-book/) - ([JavaScript Promiseの本 译本](https://github.com/azu/promises-book))
+* [JavaScript 全栈教程](https://www.liaoxuefeng.com/wiki/1022910821149312) (作者: 廖雪峰)
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (译者: 开源中国)
+* [深入理解 JavaScript 系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+*
+* JSON
+    * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+* **审阅至此**
+*
 * jQuery
     * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
     * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
@@ -171,8 +169,8 @@
 * [TypeScript Handbook](https://github.com/zhongsp/TypeScript)[[GitBook](https://zhongsp.gitbooks.io/typescript-handbook/content/)]
 * Deno
     * [Deno 中文手册](https://github.com/Nugine/deno-manual-cn) [[GitBook](https://nugine.github.io/deno-manual-cn/)]
-    * [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial) (韩亦乐,寇云)
-    * [Deno 进阶开发笔记](https://github.com/chenshenhai/deno_note) (chenshenhai)
+    * [Deno 钻研之术](https://github.com/hylerrix/deno-tutorial) (作者: 韩亦乐,寇云)
+    * [Deno 进阶开发笔记](https://github.com/chenshenhai/deno_note) (作者: chenshenhai)
 * Angular
   * [Angular 官方文档](https://angular.cn/docs)
     
