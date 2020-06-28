@@ -39,7 +39,7 @@
 
 ## Java
 
-* [Java 编程思想](https://github.com/LingCoder/OnJava8) [github.io](https://lingcoder.github.io/OnJava8/) - (《On Java 8》中文译本)   
+* [Java 编程思想](https://github.com/LingCoder/OnJava8) [[github.io](https://lingcoder.github.io/OnJava8/)] - (《On Java 8》中文译本)   
 
 ## JavaScript
 
@@ -180,5 +180,5 @@
     
     
 ## Review
-> 已审阅: Go, Rust, TypeScript  
+> 已审阅: Go, Rust, TypeScript, Java     
 > 审阅至: 2020.05.28 - JavaScript
