@@ -5,9 +5,9 @@
 - GitHub 上流行的其它中文编程书籍索引  [索引一](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)、 [索引二](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
 
 ## 目录
-
 * 编程语言类
   * [Go](#go)
+  * [Java](#java)
   * [JavaScript](#javascript)
   * [Lua](#lua)
   * [PHP](#php)
@@ -36,6 +36,10 @@
 * [Go 语法树入门](https://github.com/chai2010/go-ast-book) (作者: 柴树杉)
 * [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) [[GitBook](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)] (作者: 柴树杉)
 * [Go2 编程指南](https://github.com/chai2010/go2-book) [[GitBook](https://chai2010.cn/go2-book/)] (作者: 柴树杉)   
+
+## Java
+
+* [Java 编程思想](https://github.com/LingCoder/OnJava8) [github.io](https://lingcoder.github.io/OnJava8/) - (《On Java 8》中文译本)   
 
 ## JavaScript
 
