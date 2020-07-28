@@ -1,4 +1,4 @@
-免费中文编程书籍索引
+e费中文编程书籍索引
 ------
 免费中文编程书籍索引，欢迎投稿。
 
@@ -14,6 +14,11 @@
   * [Rust](#rust)
   * [Shell](#shell)
   * [TypeScript](#typescript)
+
+* 数据库与缓存类
+  * [Redis](#Redis)
+
+---
 
 ## Go
 
@@ -177,8 +182,15 @@
     * [Deno 进阶开发笔记](https://github.com/chenshenhai/deno_note) (作者: chenshenhai)
 * Angular
   * [Angular 官方文档](https://angular.cn/docs)
-    
-    
+
+---
+
+## Redis
+* Redis 中文文档[[GitBook](https://wizardforcel.gitbooks.io/redis-doc/content/)] - (译者:[黄健宏](http://www.huangz.me/))
+* [Redis 命令参考](http://redisdoc.com) (作者:[黄健宏](http://www.huangz.me/))
+
+---    
 ## Review
 > 已审阅: Go, Rust, TypeScript, Java     
 > 审阅至: 2020.05.28 - JavaScript
+
